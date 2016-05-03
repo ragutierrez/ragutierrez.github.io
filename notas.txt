@@ -1,0 +1,32 @@
+El ciclo de vida de la administración de contenidos consta de 3 partes:
+Colección: se crea y/o adquiere información.
+Gestión: responsable del manejo y almacenamiento de la información, de los usuarios.
+Publicación: de manera automática o semiautomática, mediante plantillas, se difunde la información a nivel interno o externo de la organización o empresa que crea los contenidos.
+
+CMS: Content Management System.
+WCMS: Web Content Management System
+ECM: Enterprise Content Management.
+DMS: Document Management System.
+
+-- Gestión  de la información.
+Identificación de las necesidades de información
+Adquisición de las fuentes informativas
+Organización y almacenamiento
+Desarrollo de productos y servicios
+Distribución y uso
+
+Public Knowledge Project
+
+Open Journal Systems
+
+E –Marketing
+
+Entre las técnicas para el E-Marketing se tiene:
+Banners
+E-mail marketing o publicidad e-mail
+Publicidad mediante motores de búsqueda
+Posicionamiento en buscadores (SEO)
+Análisis en la web
+
+
+Digital Object Identifier
